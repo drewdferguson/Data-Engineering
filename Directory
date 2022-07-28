@@ -1,0 +1,6 @@
+python_etl
+    |__main.py
+    |__db_credentials.py
+    |__variables.py
+    |__sql_queries.py
+    |__etl.py
